@@ -55,4 +55,6 @@ This project is an API that provides weather information and generates funny tex
 
 ## Application Flow
 
+For a detailed overview of the application's architecture, refer to the [Architecture Documentation](docs/architecture_application.md).
+
 ![Application Flow](docs/flow.png)

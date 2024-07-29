@@ -49,3 +49,4 @@ To ensure consistent and simplified deployment, the application is containerized
 ## Application Flow Diagram
 
 The flow diagram (`flow.png`) provides a visual overview of the path a request takes from the client to the response, passing through the various components of the application.
+![Application Flow](flow.png)
