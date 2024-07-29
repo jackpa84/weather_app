@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "text-generation-city-weather"
+version = "0.1.0"
+description = ""
+authors = ["Jackson Pacheco <jackpa1984@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+transformers = "^4.43.3"
+fastapi = "^0.111.1"
+python-decouple = "^3.8"
+requests = "^2.32.3"
+torch = "^2.4.0"
+deep-translator = "^1.11.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
